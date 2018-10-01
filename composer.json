@@ -1,30 +1,30 @@
 {
-    "name": "digitalazgroup/plain-text",
-    "description": "A Laravel Nova plain text field.",
-    "keywords": [
-        "laravel",
-        "nova",
-        "plain text"
-    ],
-    "license": "MIT",
-    "require": {
-        "php": ">=7.1.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Digitalazgroup\\PlainText\\": "src/"
-        }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Digitalazgroup\\PlainText\\FieldServiceProvider"
-            ]
-        }
-    },
-    "config": {
-        "sort-packages": true
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+  "name": "digitalazgroup/nova-plain-text-field",
+  "description": "A Laravel Nova plain text field.",
+  "keywords": [
+    "laravel",
+    "nova",
+    "plain text"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Digitalazgroup\\PlainText\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Digitalazgroup\\PlainText\\FieldServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
