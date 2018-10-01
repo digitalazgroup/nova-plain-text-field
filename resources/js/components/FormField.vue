@@ -8,6 +8,7 @@
                 v-model="value"
                 class="w-full form-control form-plain-text text-80 h-9 pt-2 ml-3"
                 readonly
+                disabled
             />
         </template>
     </default-field>
