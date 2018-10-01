@@ -26,12 +26,12 @@ public function fields(Request $request)
 
 #### Index view
 
-![index view](https://github.com/digitalazgroup/nova-plain-text-field/master/docs/index.png 'Index view')
+![index view](https://github.com/digitalazgroup/nova-plain-text-field/blob/master/docs/index.png 'Index view')
 
 #### Details view
 
-![details view](https://github.com/digitalazgroup/nova-plain-text-field/master/docs/show.png 'Details view')
+![details view](https://github.com/digitalazgroup/nova-plain-text-field/blob/master/docs/show.png 'Details view')
 
 #### Update view
 
-![update view](https://github.com/digitalazgroup/nova-plain-text-field/master/docs/edit.png 'Update view')
+![update view](https://github.com/digitalazgroup/nova-plain-text-field/blob/master/docs/edit.png 'Update view')
