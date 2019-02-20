@@ -12,14 +12,4 @@ class PlainText extends Field
      * @var string
      */
     public $component = 'plain-text';
-
-    /**
-     * Display the field as raw HTML using Vue.
-     *
-     * @return $this
-     */
-    public function asHtml()
-    {
-        return $this->withMeta(['asHtml' => true]);
-    }
 }
